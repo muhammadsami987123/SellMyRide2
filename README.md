@@ -85,6 +85,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Muhammad Sami Asghar Mughal**  
 - [LinkedIn](https://www.linkedin.com/in/muhammad-sami-3aa6102b8)  
 - [GitHub](https://github.com/muhammadsami987123)
-- [Email](m.samiwaseem1234@gmail.com)
+
 Feel free to explore, use, and contribute to the project!
 
